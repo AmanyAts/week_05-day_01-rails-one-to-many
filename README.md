@@ -283,7 +283,8 @@ Follow the steps outlined in good Error Driven Development
     <td></td>
     <td></td>
   </tr>
-  
+</tbody>
+
 ## Lab: Cafeteria 
 
 ### User Stories
